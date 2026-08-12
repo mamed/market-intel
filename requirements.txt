@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-community
+openai
+qdrant-client
+redis
+pandas
+numpy
+scikit-learn
+scipy
+requests
+beautifulsoup4
+python-dotenv
+pydantic
